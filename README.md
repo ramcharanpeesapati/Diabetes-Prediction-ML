@@ -1,2 +1,21 @@
-# Diabetes-Prediction-ML
-Diabetes Prediction using Machine Learning with the Pima Indians Diabetes Dataset. Features include data preprocessing, visualization, and a Random Forest Classifier for accurate predictions. Built as part of the Internpe internship to showcase AI-driven healthcare solutions.  
+# Diabetes Prediction Using Machine Learning
+
+## Overview
+This project uses Python and Machine Learning to predict diabetes based on medical parameters. It employs a Random Forest Classifier for high accuracy and visualizations for better data insights.
+
+## Features
+- Data preprocessing and visualization.
+- Random Forest Classifier with cross-validation.
+- Evaluation metrics like confusion matrix and classification report.
+
+## Tools and Libraries
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+
+## Instructions
+1. Clone the repository.
+2. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
